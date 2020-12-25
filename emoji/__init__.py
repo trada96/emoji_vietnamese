@@ -35,10 +35,10 @@ __all__ = [
     'EMOJI_ALIAS_UNICODE_ENGLISH', 'UNICODE_EMOJI_ALIAS_ENGLISH'
 ]
 __version__ = '0.6.0'
-__author__ = 'Taehoon Kim and Kevin Wurster'
-__email__ = 'carpedm20@gmail.com'
+__author__ = 'Tuan Anh'
+__email__ = 'tuananhhd5596@gmail.com'
 # and wursterk@gmail.com
-__source__ = 'https://github.com/carpedm20/emoji/'
+__source__ = 'https://github.com/luongvantuananh/emoji_vietnamese/'
 __license__ = '''
 New BSD License
 
